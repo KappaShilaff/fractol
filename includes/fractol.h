@@ -16,7 +16,7 @@
 # include <stdlib.h>
 # include <stdio.h>
 # include <math.h>
-# include "../srcs/libft/includes/libft.h"
+# include "../libft/includes/libft.h"
 # include <fcntl.h>
 # include <mlx.h>
 # include <pthread.h>
